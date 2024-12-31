@@ -1,2 +1,3 @@
 # ReactLolita
-西湖区最好用的 react lottie 播放器
+
+最好用的 lottie 动画 React 播放组件
