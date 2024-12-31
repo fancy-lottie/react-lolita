@@ -1,9 +1,10 @@
 {
   "name": "react-lolita",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "最好用的 Lottie React 播放组件",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/type.d.ts",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
